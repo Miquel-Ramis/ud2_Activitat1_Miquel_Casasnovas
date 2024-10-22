@@ -1,0 +1,61 @@
+p {
+    color: #004466;
+    font-family: Georgia, 'Times New Roman', Times,
+    serif;
+    font-size: 16px;
+}
+
+* {
+    background-color: #D2E4C4;
+}
+
+h1 {
+    color: #3c3c3c;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+}
+
+h2 {
+    color: #9A275A;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
+
+h3 {
+    color: #9A275A;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+ul li {
+    color: #D24B88;
+}
+
+.Important {
+    background-color: black;
+    color: white;
+}
+
+.Textos_Sample {
+    color: black;
+    font-weight: bold;
+}
+
+.Textos_Backbone {
+    color: black;
+    font-weight: bold;
+    text-decoration: italic;
+}
+
+.Enllaços {
+    color: #3c3c3c;
+}
+
+.Enllaços:hover {
+    font-weight: bold;
+}
+
+footer p {
+    color: #3c3c3c;
+    font-weight: bold;
+}
